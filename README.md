@@ -1,105 +1,93 @@
 # Hi there, I'm Akash Kumar 👋
 
-### 💻 MCA Student | ☁️ AWS & DevOps Learner | 🗄️ Database Enthusiast
+### ☁️ Aspiring Cloud Engineer | 🗄️ Database Developer | 💻 MCA Student
 
-I'm currently pursuing a Master of Computer Applications (MCA) and have hands-on experience in SQL, Database Management, AWS Cloud, Linux, Networking, and Web Development. Through academic projects, DevOps training, and networking labs, I have developed practical skills in cloud infrastructure, database operations, and IT support fundamentals.
+I'm currently pursuing my Master of Computer Applications (MCA) and have hands-on experience in SQL, Database Management, AWS Cloud, Linux, Networking, and Web Development. Through academic projects, specialized DevOps training, and networking labs, I have developed practical skills in cloud infrastructure, database operations, and IT support fundamentals.
+
+---
+
+## 🎓 Education
+
+* **Master of Computer Applications (MCA)** | Noida Institute of Engineering & Technology (2024 - 2026) • *81%*
+* **Bachelor of Computer Applications (BCA)** | Arcade Business College, Patna (2021 - 2024) • *72.75%*
+
+---
+
+## 💼 Experience & Training
+
+### ☁️ DevOps Trainee | *Orbique Technologies* (2025)
+* Worked hands-on with AWS services including **EC2, IAM, and VPC**.
+* Learned Linux administration and fundamental cloud deployment strategies.
+* Gained exposure to modern DevOps practices and cloud infrastructure concepts.
+
+### 🌐 Data Center Training | *Wipro WILP* (Jan 2025 - Mar 2025)
+* Practiced advanced routing, switching, and network configuration.
+* Utilized **Cisco Packet Tracer** for comprehensive network simulation and troubleshooting.
 
 ---
 
 ## 🚀 Technical Skills
 
 ### 🗄️ Databases
-
-* SQL
-* MySQL
-* SQL Server
-* CRUD Operations
-* Joins & Query Optimization
+* **SQL:** CRUD Operations, Joins, Complex Queries
+* **RDBMS:** MySQL, Microsoft SQL Server
 
 ### ☁️ Cloud & DevOps
+* **AWS:** EC2, IAM, VPC
+* **Systems:** Linux Administration
+* **Concepts:** Cloud Deployment Basics
 
-* AWS EC2
-* AWS IAM
-* AWS VPC
-* Linux Fundamentals
-* Cloud Deployment Basics
+### 💻 Programming & Web
+* **Languages:** C++, Java, SQL
+* **Frontend:** HTML, CSS
 
-### 🌐 Networking
-
-* Routing & Switching
-* Cisco Packet Tracer
-* Network Configuration
-* Basic Troubleshooting
-
-### 💻 Programming
-
-* Java
-* C++
-* SQL
-
-### 🌍 Web Technologies
-
-* HTML
-* CSS
-
-### 🛠️ Tools & Platforms
-
-* Git
-* GitHub
-* Netlify
+### 🛠️ Tools & Networking
+* **Version Control & Hosting:** Git, GitHub, Netlify
+* **Networking:** Routing & Switching, Cisco Packet Tracer, Basic Troubleshooting
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎵 Spotify Clone
+### 🎵 [Spotify Clone](https://github.com/25546akash/spotify-clone) *(HTML, CSS, Netlify)*
+* Built a fully responsive Spotify-inspired user interface utilizing modern HTML and CSS.
+* Successfully deployed the application using Netlify for high availability.
+* Sharpened frontend design aesthetics and responsive layout techniques.
 
-* Built a responsive Spotify-inspired user interface using HTML and CSS.
-* Deployed the application using Netlify.
-* Improved frontend design and responsive layout skills.
+### 🍽️ [Restaurant Management System](https://github.com/25546akash/MyProject) *(Visual Basic 6.0, SQL)*
+* Led a collaborative team of 4 members to develop a comprehensive database-driven restaurant management application.
+* Implemented seamless SQL database connectivity and handled complex CRUD operations for data management.
 
-### 🍽️ Restaurant Management System
-
-* Led a team of 4 members.
-* Developed a database-driven restaurant management application.
-* Implemented SQL database connectivity and CRUD operations.
-
-### 🌐 Network Routing Project
-
-* Practiced routing and switching concepts using Cisco Packet Tracer.
-* Configured network topologies and routing protocols.
-* Strengthened networking and troubleshooting skills.
+### 🌐 [Network Routing Project](https://github.com/25546akash/Network_Routing) *(Cisco Packet Tracer)*
+* Applied Wipro training concepts to configure complex network topologies and routing protocols.
+* Strengthened core networking knowledge and advanced troubleshooting skills.
 
 ---
 
-## 🎓 Certifications
+## 📜 Certifications
 
-* Salesforce Developer
-* CCNA: Switching, Routing and Wireless Essentials
-* Introduction to Cybersecurity
-* Networking Essentials
-* Linux for Beginners
-* Java Certification (IIT Bombay)
-* C++ Certification (IIT Bombay)
-* HTML Certification (IIT Bombay)
+* **Salesforce Developer** *(LearnNowX Consulting Services)*
+* **CCNA: Switching, Routing, and Wireless Essentials** *(Cisco Networking Academy)*
+* **Introduction to Cybersecurity** *(Cisco Networking Academy)*
+* **Networking Essentials** *(Cisco Networking Academy)*
+* **HTML5 - The Language** *(Infosys Springboard)*
+* **Linux for Beginners** *(Infosys Springboard)*
+* **Java, C++, & HTML Certifications** *(Spoken Tutorial Project at IIT Bombay)*
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced SQL Queries
-* Database Administration Concepts
-* AWS Cloud Services
+* Advanced SQL Queries and Database Optimization
+* AWS Cloud Architectures
 * Python for Data Analysis
-* DevOps Fundamentals
 
 ---
 
 ## 🎯 Career Interests
 
-* Database Administrator (DBA)
-* SQL Developer
-* Cloud Support Engineer
+* Database Administrator (DBA) / SQL Developer
+* Cloud Support Engineer / AWS Cloud Engineer
 * IT Support Engineer
 * DevOps Engineer
 * Software Developer
@@ -108,8 +96,12 @@ I'm currently pursuing a Master of Computer Applications (MCA) and have hands-on
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/akash-kumar-273838291](http://www.linkedin.com/in/akash-kumar-273838291)
-* GitHub: github.com/25546akash
-* Email: [nkak9570@gmail.com](mailto:nkak9570@gmail.com)
+* **LinkedIn:** [Akash Kumar](https://www.linkedin.com/in/akash-kumar-273838291)
+* **GitHub:** [github.com/25546akash](https://github.com/25546akash)
+* **Email:** [nkak9570@gmail.com](mailto:nkak9570@gmail.com)
+* **Portfolio:** *(Add your portfolio link here if you have one deployed)*
 
-⭐ Always eager to learn, build, and contribute to real-world technology solutions.
+<br/>
+<p align="center">
+  <i>⭐ Always eager to learn, build, and contribute to real-world technology solutions.</i>
+</p>
