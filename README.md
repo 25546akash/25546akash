@@ -99,7 +99,7 @@ I'm currently pursuing my Master of Computer Applications (MCA) and have hands-o
 * **LinkedIn:** [Akash Kumar](https://www.linkedin.com/in/akash-kumar-273838291)
 * **GitHub:** [github.com/25546akash](https://github.com/25546akash)
 * **Email:** [nkak9570@gmail.com](mailto:nkak9570@gmail.com)
-* **Portfolio:** *(https://akashportfolios.netlify.app/)
+* **Portfolio:** https://akashportfolios.netlify.app/
 
 <br/>
 <p align="center">
