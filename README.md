@@ -1,107 +1,50 @@
-# Hi there, I'm Akash Kumar 👋
+<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
+<h3 align="center">Robotics Trainer | Product Developer | Software & IoT Enthusiast</h3>
 
-### ☁️ Aspiring Cloud Engineer | 🗄️ Database Developer | 💻 MCA Student
-
-I'm currently pursuing my Master of Computer Applications (MCA) and have hands-on experience in SQL, Database Management, AWS Cloud, Linux, Networking, and Web Development. Through academic projects, specialized DevOps training, and networking labs, I have developed practical skills in cloud infrastructure, database operations, and IT support fundamentals.
-
----
-
-## 🎓 Education
-
-* **Master of Computer Applications (MCA)** | Noida Institute of Engineering & Technology (2024 - 2026) • *81%*
-* **Bachelor of Computer Applications (BCA)** | Arcade Business College, Patna (2021 - 2024) • *72.75%*
-
----
-
-## 💼 Experience & Training
-
-### ☁️ DevOps Trainee | *Orbique Technologies* (2025)
-* Worked hands-on with AWS services including **EC2, IAM, and VPC**.
-* Learned Linux administration and fundamental cloud deployment strategies.
-* Gained exposure to modern DevOps practices and cloud infrastructure concepts.
-
-### 🌐 Data Center Training | *Wipro WILP* (Jan 2025 - Mar 2025)
-* Practiced advanced routing, switching, and network configuration.
-* Utilized **Cisco Packet Tracer** for comprehensive network simulation and troubleshooting.
-
----
-
-## 🚀 Technical Skills
-
-### 🗄️ Databases
-* **SQL:** CRUD Operations, Joins, Complex Queries
-* **RDBMS:** MySQL, Microsoft SQL Server
-
-### ☁️ Cloud & DevOps
-* **AWS:** EC2, IAM, VPC
-* **Systems:** Linux Administration
-* **Concepts:** Cloud Deployment Basics
-
-### 💻 Programming & Web
-* **Languages:** C++, Java, SQL
-* **Frontend:** HTML, CSS
-
-### 🛠️ Tools & Networking
-* **Version Control & Hosting:** Git, GitHub, Netlify
-* **Networking:** Routing & Switching, Cisco Packet Tracer, Basic Troubleshooting
-
----
-
-## 📌 Featured Projects
-
-### 🎵 [Spotify Clone](https://github.com/25546akash/spotify-clone) *(HTML, CSS, Netlify)*
-* Built a fully responsive Spotify-inspired user interface utilizing modern HTML and CSS.
-* Successfully deployed the application using Netlify for high availability.
-* Sharpened frontend design aesthetics and responsive layout techniques.
-
-### 🍽️ [Restaurant Management System](https://github.com/25546akash/MyProject) *(Visual Basic 6.0, SQL)*
-* Led a collaborative team of 4 members to develop a comprehensive database-driven restaurant management application.
-* Implemented seamless SQL database connectivity and handled complex CRUD operations for data management.
-
-### 🌐 [Network Routing Project](https://github.com/25546akash/Network_Routing) *(Cisco Packet Tracer)*
-* Applied Wipro training concepts to configure complex network topologies and routing protocols.
-* Strengthened core networking knowledge and advanced troubleshooting skills.
-
----
-
-## 📜 Certifications
-
-* **Salesforce Developer** *(LearnNowX Consulting Services)*
-* **CCNA: Switching, Routing, and Wireless Essentials** *(Cisco Networking Academy)*
-* **Introduction to Cybersecurity** *(Cisco Networking Academy)*
-* **Networking Essentials** *(Cisco Networking Academy)*
-* **HTML5 - The Language** *(Infosys Springboard)*
-* **Linux for Beginners** *(Infosys Springboard)*
-* **Java, C++, & HTML Certifications** *(Spoken Tutorial Project at IIT Bombay)*
-
----
-
-## 🌱 Currently Learning
-
-* Advanced SQL Queries and Database Optimization
-* AWS Cloud Architectures
-* Python for Data Analysis
-
----
-
-## 🎯 Career Interests
-
-* Database Administrator (DBA) / SQL Developer
-* Cloud Support Engineer / AWS Cloud Engineer
-* IT Support Engineer
-* DevOps Engineer
-* Software Developer
-
----
-
-## 📫 Connect With Me
-
-* **LinkedIn:** [Akash Kumar](https://www.linkedin.com/in/akash-kumar-273838291)
-* **GitHub:** [github.com/25546akash](https://github.com/25546akash)
-* **Email:** [nkak9570@gmail.com](mailto:nkak9570@gmail.com)
-* **Portfolio:** https://akashportfolios.netlify.app/
-
-<br/>
 <p align="center">
-  <i>⭐ Always eager to learn, build, and contribute to real-world technology solutions.</i>
+  <img src="https://komarev.com/ghpvc/?username=25546akash&label=Profile%20views&color=0e75b6&style=flat" alt="25546akash" />
 </p>
+
+---
+
+I am an **MCA Graduate (2024)** and currently working as a **Robotics Trainer cum Product Developer** at *Ankuram Robo Private Limited*. My expertise bridges the gap between software programming and hardware integration, with a strong focus on building intelligent, real-world systems.
+
+- 🔭 I’m currently working on **AI-assisted automation, Robotics prototypes, and IoT dashboards.**
+- 🌱 I’m currently learning deeper **Cloud Infrastructure (AWS) and Advanced Backend Architecture.**
+- 💻 My portfolio: [akashportfolios.netlify.app](https://akashportfolios.netlify.app/)
+- 💬 Ask me about **Embedded Systems, IoT, C/C++, Python, or Web Development.**
+- 📫 How to reach me: **nkak9570@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
+**Programming & Software:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Robotics, IoT & Embedded:**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![Google Gemini API](https://img.shields.io/badge/-AI%20Integration-4285F4?style=flat&logo=google&logoColor=white)
+
+**Web & Cloud Infrastructure:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=25546akash&show_icons=true&theme=tokyonight" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25546akash&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
