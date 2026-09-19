@@ -41,10 +41,3 @@ I am an **MCA Graduate (2024)** and currently working as a **Robotics Trainer cu
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25546akash&show_icons=true&theme=tokyonight" alt="Akash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25546akash&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
