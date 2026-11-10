@@ -23,7 +23,7 @@ jobs:
         with:
           card: stats
           options: username=25546akash&show_icons=true&theme=transparent&hide_border=true
-          path: profile/stats.svg
+          path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
@@ -31,7 +31,7 @@ jobs:
         with:
           card: top-langs
           options: username=25546akash&layout=compact&theme=transparent&hide_border=true&langs_count=8
-          path: profile/top-langs.svg
+          path: top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Updated Statistics
@@ -39,7 +39,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/stats.svg profile/top-langs.svg
+          git add stats.svg top-langs.svg
 
           if ! git diff --cached --quiet; then
             git commit -m "Update GitHub statistics"
