@@ -108,12 +108,23 @@ Here are some of the projects I've been building and working on.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25546akash&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25546akash&layout=compact&theme=transparent&hide_border=true" height="165" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=25546akash&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=25546akash&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=25546akash&theme=transparent&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=25546akash&theme=transparent&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
